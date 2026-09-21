@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 
 const navLinks = [
   { href: '#overview', icon: 'dashboard', label: 'Home' },
-  { href: '#experience', icon: 'work', label: 'Experience & Certifications' },
+  { href: '#experience', icon: 'work', label: 'Experience & Education' },
   { href: '#projects', icon: 'bar_chart', label: 'Projects' },
   { href: '#contact', icon: 'settings', label: 'Contact' },
 ]

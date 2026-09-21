@@ -7,6 +7,7 @@ import Loader from '../shared/components/layout/Loader';
 import Hero from '../features/hero/components/Hero';
 import ExperienceList from '../features/experience/components/ExperienceList';
 import CertificateGallery from '../features/certificates/components/CertificateGallery';
+import Education from '../features/education/components/Education';
 import Tools from '../features/tools/components/Tools';
 import ProjectsSection from '../features/projects/components/ProjectsSection';
 import ShowcasePage from '../features/projects/components/ShowcasePage';
@@ -64,7 +65,10 @@ export default function App() {
               <Hero />
               <section className="grid grid-cols-12 gap-6 mb-6 overflow-hidden">
                 <ExperienceList />
-                <CertificateGallery />
+                <div className="col-span-12 lg:col-span-5 flex flex-col gap-4 sm:gap-4.5">
+                  <CertificateGallery />
+                  <Education />
+                </div>
               </section>
               <Tools />
               <ProjectsSection onShowAll={() => setPage('showcase')} />

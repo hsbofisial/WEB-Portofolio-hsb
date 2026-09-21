@@ -4,10 +4,9 @@ export default function CertificateCard({ cert, index, onOpen }) {
       onClick={() => onOpen(cert)}
       data-aos="zoom-in-up"
       data-aos-delay={300 + index * 150}
-      className="bg-white border-2 border-black p-3 hover:translate-x-1 hover:translate-y-0.5 hover:shadow-none transition-all duration-300 ease-in-out cursor-pointer flex gap-4 items-center group"
-      style={{ boxShadow: '4px 4px 0px 0px #000' }}
+      className="bg-white border-2 border-black p-3 sm:py-2.5 sm:px-3.5 hard-shadow hover:translate-x-1 hover:translate-y-0.5 hover:shadow-none transition-all duration-300 ease-in-out cursor-pointer flex gap-3.5 items-center group"
     >
-      <div className="w-20 h-14 bg-surface-container-high border border-black shrink-0 overflow-hidden relative">
+      <div className="w-16 h-12 bg-surface-container-high border border-black shrink-0 overflow-hidden relative">
         <img
           src={cert.image}
           alt={cert.title}
@@ -18,10 +17,10 @@ export default function CertificateCard({ cert, index, onOpen }) {
         </div>
       </div>
       <div className="flex-1 min-w-0">
-        <h5 className="font-black text-sm uppercase leading-tight truncate group-hover:text-primary transition-colors">
+        <h5 className="font-black text-sm uppercase leading-tight group-hover:text-primary transition-colors">
           {cert.title}
         </h5>
-        <p className="text-[12px] text-on-surface-variant font-bold mt-1">
+        <p className="text-[12px] text-on-surface-variant font-bold mt-1 leading-snug">
           {cert.issuer} · {cert.year}
         </p>
       </div>

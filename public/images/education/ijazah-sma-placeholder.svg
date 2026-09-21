@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="100%" height="100%">
+  <rect width="800" height="560" fill="#fcf9f0" />
+  
+  <!-- Outer & Inner Brutalist Borders -->
+  <rect x="24" y="24" width="752" height="512" fill="none" stroke="#000000" stroke-width="8" />
+  <rect x="36" y="36" width="728" height="488" fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="8 6" />
+  
+  <!-- Corner Ornaments -->
+  <rect x="44" y="44" width="20" height="20" fill="#ffda49" stroke="#000" stroke-width="3" />
+  <rect x="736" y="44" width="20" height="20" fill="#ffda49" stroke="#000" stroke-width="3" />
+  <rect x="44" y="496" width="20" height="20" fill="#ffda49" stroke="#000" stroke-width="3" />
+  <rect x="736" y="496" width="20" height="20" fill="#ffda49" stroke="#000" stroke-width="3" />
+
+  <!-- Top Badge -->
+  <rect x="290" y="70" width="220" height="34" fill="#a8d1b7" stroke="#000" stroke-width="3" />
+  <text x="400" y="93" font-family="'DM Sans', sans-serif" font-size="13" font-weight="900" fill="#000000" text-anchor="middle" letter-spacing="2">IJAZAH PENDIDIKAN MENENGAH</text>
+
+  <!-- Institution Header -->
+  <text x="400" y="150" font-family="'DM Sans', sans-serif" font-size="24" font-weight="900" fill="#000000" text-anchor="middle" letter-spacing="1">SEKOLAH MENENGAH ATAS</text>
+  <text x="400" y="185" font-family="'DM Sans', sans-serif" font-size="30" font-weight="900" fill="#416651" text-anchor="middle" letter-spacing="1">SMA NEGERI 3 KLATEN</text>
+
+  <!-- Decorative Line -->
+  <line x1="200" y1="210" x2="600" y2="210" stroke="#000000" stroke-width="3" />
+
+  <!-- Recipient / Degree Details -->
+  <text x="400" y="255" font-family="'DM Sans', sans-serif" font-size="14" font-weight="700" fill="#555555" text-anchor="middle" letter-spacing="1">DIBERIKAN KEPADA</text>
+  <text x="400" y="295" font-family="'DM Sans', sans-serif" font-size="24" font-weight="900" fill="#000000" text-anchor="middle">MUHAMMAD HAJID HASIBU WAHAB</text>
+
+  <rect x="220" y="325" width="360" height="42" fill="#ffda49" stroke="#000" stroke-width="3" />
+  <text x="400" y="352" font-family="'DM Sans', sans-serif" font-size="15" font-weight="900" fill="#000000" text-anchor="middle" letter-spacing="1">MIPA (ILMU PENGETAHUAN ALAM)</text>
+
+  <text x="400" y="405" font-family="'DM Sans', sans-serif" font-size="15" font-weight="700" fill="#333333" text-anchor="middle">Tahun Kelulusan: 2015 – 2018</text>
+
+  <!-- Seal Badge Bottom -->
+  <circle cx="400" cy="465" r="32" fill="#ffda49" stroke="#000" stroke-width="3" />
+  <polygon points="400,442 406,456 421,457 409,467 413,481 400,473 387,481 391,467 379,457 394,456" fill="#000" />
+</svg>

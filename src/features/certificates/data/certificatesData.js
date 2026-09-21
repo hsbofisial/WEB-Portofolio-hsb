@@ -12,12 +12,6 @@ const certificatesData = [
     image: '/images/certificates/brand-identity-typography.jpg'
   },
   {
-    title: 'Advanced Digital Vector Illustration & Commercial Art',
-    issuer: 'Professional Illustration & Commercial Guild · Certificate of Competence',
-    year: '2025',
-    image: '/images/certificates/digital-vector-illustration.jpg'
-  },
-  {
     title: 'Publication Layout & Editorial Print Design',
     issuer: 'The Design Guild · Certificate of Excellence',
     year: '2025',
