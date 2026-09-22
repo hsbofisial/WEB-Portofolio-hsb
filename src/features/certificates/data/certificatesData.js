@@ -1,9 +1,9 @@
 const certificatesData = [
   {
-    title: 'Graphic Design & Visual Communication',
-    issuer: 'The Global Academy of Creative Arts · Certificate of Achievement',
-    year: '2024',
-    image: '/images/certificates/graphic-design-visual-communication.jpg'
+    title: 'Desainer Grafis Profesional CorelDRAW',
+    issuer: 'LPKP Albar College · Kartu Prakerja',
+    year: '2022',
+    image: '/images/certificates/desainer-grafis-coreldraw.png'
   },
   {
     title: 'Brand Identity & Advanced Typography',
