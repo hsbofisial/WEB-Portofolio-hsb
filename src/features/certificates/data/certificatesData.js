@@ -6,10 +6,10 @@ const certificatesData = [
     image: '/images/certificates/desainer-grafis-coreldraw.png'
   },
   {
-    title: 'Brand Identity & Advanced Typography',
-    issuer: 'BI&T Design Faculty · Professional Certificate',
-    year: '2024',
-    image: '/images/certificates/brand-identity-typography.jpg'
+    title: 'Desain Visual Perancang Grafis',
+    issuer: 'Karier.mu by Sekolah.mu · Prakerja',
+    year: '2023',
+    image: '/images/certificates/desain-visual-perancang-grafis.png'
   },
   {
     title: 'Publication Layout & Editorial Print Design',
