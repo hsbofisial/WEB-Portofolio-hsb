@@ -12,10 +12,10 @@ const certificatesData = [
     image: '/images/certificates/desain-visual-perancang-grafis.png'
   },
   {
-    title: 'Publication Layout & Editorial Print Design',
-    issuer: 'The Design Guild · Certificate of Excellence',
-    year: '2025',
-    image: '/images/certificates/publication-editorial-design.jpg'
+    title: 'Training Teknologi Informasi dan Komunikasi (TIK)',
+    issuer: 'PTIPD UIN Sunan Kalijaga Yogyakarta',
+    year: '2018',
+    image: '/images/certificates/training-tik-uin-sunan-kalijaga.jpg'
   }
 ];
 
