@@ -33,6 +33,7 @@ export default function ShowcasePage({ onBack }) {
                 className={`border-2 border-black p-1.5 transition-colors flex items-center justify-center cursor-pointer ${
                   viewMode === 'grid' ? 'bg-secondary-container' : 'bg-white hover:bg-secondary-container/50'
                 }`}
+                title="Tampilan Grid"
               >
                 <span className="material-symbols-outlined text-lg">grid_view</span>
               </button>
@@ -41,6 +42,7 @@ export default function ShowcasePage({ onBack }) {
                 className={`border-2 border-black p-1.5 transition-colors flex items-center justify-center cursor-pointer ${
                   viewMode === 'list' ? 'bg-secondary-container' : 'bg-white hover:bg-secondary-container/50'
                 }`}
+                title="Tampilan List"
               >
                 <span className="material-symbols-outlined text-lg">list</span>
               </button>

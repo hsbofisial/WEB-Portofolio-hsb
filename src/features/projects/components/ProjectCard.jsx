@@ -75,6 +75,7 @@ function renderActionButtons(project, isGrid, onViewDesign) {
 
 export default function ProjectCard({ project, index, variant, clampDescription = false, onViewDesign }) {
   const isGrid = variant === 'grid';
+  const displayImage = project.image || project.images?.[0]?.url || '';
 
   if (isGrid) {
     return (
@@ -90,7 +91,7 @@ export default function ProjectCard({ project, index, variant, clampDescription 
           >
             <img
               className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-500 ease-in-out"
-              src={project.image}
+              src={displayImage}
               alt={project.title}
             />
           </div>
@@ -125,7 +126,7 @@ export default function ProjectCard({ project, index, variant, clampDescription 
       >
         <img
           className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-500 ease-in-out"
-          src={project.image}
+          src={displayImage}
           alt={project.title}
         />
       </div>
