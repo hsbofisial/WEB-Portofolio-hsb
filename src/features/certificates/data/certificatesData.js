@@ -12,6 +12,12 @@ const certificatesData = [
     image: '/images/certificates/desain-visual-perancang-grafis.png'
   },
   {
+    title: 'Google Workspace for Education',
+    issuer: 'Pusdatin Kemdikbud · REFO · Google for Education',
+    year: '2022',
+    image: '/images/certificates/google-workspace-for-education.png'
+  },
+  {
     title: 'Information and Communication Technology',
     issuer: 'PTIPD UIN Sunan Kalijaga Yogyakarta',
     year: '2018',
