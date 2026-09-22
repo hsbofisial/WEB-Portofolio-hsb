@@ -12,7 +12,7 @@ const certificatesData = [
     image: '/images/certificates/desain-visual-perancang-grafis.png'
   },
   {
-    title: 'Training Teknologi Informasi dan Komunikasi (TIK)',
+    title: 'Information and Communication Technology',
     issuer: 'PTIPD UIN Sunan Kalijaga Yogyakarta',
     year: '2018',
     image: '/images/certificates/training-tik-uin-sunan-kalijaga.jpg'

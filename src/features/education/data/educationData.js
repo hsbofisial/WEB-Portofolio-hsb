@@ -17,15 +17,6 @@ const educationData = [
     image: '/images/education/ijazah-sma.jpg',
     placeholder: '/images/education/ijazah-sma-placeholder.svg',
     level: 'Verified Diploma · SMA'
-  },
-  {
-    id: 'smp',
-    title: 'Pendidikan Menengah Pertama',
-    issuer: 'SMP Negeri 1 Klaten',
-    year: '2012 – 2015',
-    image: '/images/education/ijazah-smp.jpg',
-    placeholder: '/images/education/ijazah-smp-placeholder.svg',
-    level: 'Verified Diploma · SMP'
   }
 ];
 
