@@ -14,6 +14,13 @@ const experienceData = [
     desc: 'Membuat konten media sosial, website, layout untuk materi, buku panduan/modul, desain baju, pola, hingga mockup cetak.'
   },
   {
+    icon: 'local_cafe',
+    title: 'Heksa Coffee',
+    period: '2024',
+    role: 'Brand Identity & Packaging Designer',
+    desc: 'Merancang identitas visual lengkap (Brand Guidelines), sistem logo geometris heksagonal, karakter maskot, desain kemasan takeaway cup carrier, buku menu (pricelist), serta materi promosi digital & konten media sosial.'
+  },
+  {
     icon: 'smart_display',
     title: 'CubMu & Transvision',
     period: 'Project Based',
@@ -21,25 +28,18 @@ const experienceData = [
     desc: 'Merancang materi publikasi promosi digital, poster desain, dan feed Instagram untuk layanan streaming & TV berlangganan CubMu dan Transvision.'
   },
   {
-    icon: 'campaign',
-    title: 'Komnas Perempuan',
-    period: 'Campaign Project',
-    role: 'Visual Campaign Designer',
-    desc: 'Mendesain materi kampanye visual dan publikasi media sosial advokasi dengan pencantuman logo, nama instansi, serta elemen visual kampanye "Bersama".'
+    icon: 'auto_stories',
+    title: 'PT. Akselerasi Karya Mandiri',
+    period: '2023 - 2024',
+    role: 'Book Cover & Editorial Layout Designer',
+    desc: 'Bertanggung jawab dalam perancangan desain sampul (cover design) dan tata letak isi (book layouting) untuk berbagai genre buku akademik, monograf penelitian, sastra, hingga buku ajar berstandar penerbit IKAPI.'
   },
   {
-    icon: 'account_balance',
-    title: 'Pemerintah Provinsi DKI Jakarta / Dinas Terkait',
-    period: 'Public Campaign',
-    role: 'Public Communication Designer',
-    desc: 'Merancang logo dan materi kampanye publik resmi yang memuat identitas lambang daerah DKI Jakarta serta dinas terkait untuk sarana edukasi publik.'
-  },
-  {
-    icon: 'ad_units',
-    title: 'PSTA / Instansi Terkait',
-    period: 'Social Media & Poster Project',
-    role: 'Media & Infographic Designer',
-    desc: 'Merancang beberapa materi publikasi dengan identitas/singkatan PSTA pada bagian kampanye poster, infografis, dan konten sosial media.'
+    icon: 'directions_run',
+    title: 'Pemprov DKI Jakarta Run',
+    period: 'Sayembara Desain',
+    role: 'Event Identity & Merchandise Designer',
+    desc: 'Mengikuti sayembara desain perancangan identitas visual resmi event running "Pemprov DKI Jakarta Run" ("Satu Langkah untuk Jakarta"): merancang sistem logo Monas & figur pelari dinamis, official race pack jersey 21K, nomor dada (BIB), tote bag, lanyard tiket, tumbler, hingga merchandise pendukung.'
   }
 ];
 
