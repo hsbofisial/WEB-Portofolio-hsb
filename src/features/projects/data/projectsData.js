@@ -5,7 +5,7 @@ const projectsData = [
     tag: 'Brand Identity',
     category: 'brand',
     tagBg: 'bg-primary-container',
-    description: 'Identitas visual terpadu, UI/UX website, kampanye poster outdoor & media sosial: logo kaligrafi kuas, landing page responsif HSB Computer (Klaten), poster gerilya servis komputer, konten Instagram (@hsb.comp), serta stationery dan merchandise.',
+    description: 'Identitas visual terpadu, desain konten media sosial, UI/UX website, serta kampanye poster: logo kaligrafi kuas, konten Instagram (@hsb.comp), landing page responsif HSB Computer (Klaten), dan poster gerilya servis komputer.',
     image: '/images/projects/hsb_computer.png?v=2',
     images: [
       {
@@ -14,34 +14,19 @@ const projectsData = [
         caption: 'Presentasi komprehensif HSB Computer: logo utama bergaya sapuan kuas kanji Jepang & matahari merah, variasi kontras warna, palet warna, tipografi, motif pola, dan set mockup fisik.'
       },
       {
-        url: '/images/projects/hsb_website_mockup.jpg',
-        title: 'Mockup UI/UX Website & Aplikasi Mobile Responsif',
-        caption: 'Desain antarmuka landing page resmi HSB Computer (Servis & Rakit PC Klaten) pada laptop & smartphone: fitur booking servis, simulasi rakit PC, diagnosa skematik motherboard, dan 10+ modul layanan.'
-      },
-      {
         url: '/images/projects/hsb_social_media.jpg',
         title: 'Desain Konten & Feed Instagram Social Media',
         caption: 'Layout promosi media sosial @hsb.comp: visual edukasi servis laptop, penawaran 10+ layanan servis, garansi kepuasan, upgrade performa SSD/RAM, testimoni pelanggan, dan mockup smartphone feed interaktif.'
       },
       {
+        url: '/images/projects/hsb_website_mockup.jpg',
+        title: 'Mockup UI/UX Website & Aplikasi Mobile Responsif',
+        caption: 'Desain antarmuka landing page resmi HSB Computer (Servis & Rakit PC Klaten) pada laptop & smartphone: fitur booking servis, simulasi rakit PC, diagnosa skematik motherboard, dan 10+ modul layanan.'
+      },
+      {
         url: '/images/projects/hsb_street_poster.jpg',
         title: 'Poster Promosi Luar Ruang & Gerilya Marketing',
         caption: 'Desain poster cetak outdoor "Servis Laptop & Komputer" dengan tipografi kontras merah-putih, copywriting informatif & humanis (bisa COD, garansi, jujur & amanah), ilustrasi komputer error, serta kontak servis wilayah Klaten, Jogja, Solo & Karanganyar.'
-      },
-      {
-        url: '/images/projects/hsb_mockups.png',
-        title: 'Mockup Aplikasi: Kartu Nama, Tote Bag & Gantungan Kunci',
-        caption: 'Penerapan identitas visual pada kartu nama resmi Owner (Muhammad Majid H.W.), canvas tote bag ramah lingkungan, dan gantungan kunci akrilik berlogo HSB Computer.'
-      },
-      {
-        url: '/images/projects/hsb_logo_system.png',
-        title: 'Sistem Logo & Variasi Kontras Warna',
-        caption: 'Konstruksi logo sapuan kuas kaligrafi dengan simbol matahari merah dan variasi monokrom/negatif pada latar marun (#832F30) dan hitam arang (#282829).'
-      },
-      {
-        url: '/images/projects/hsb_brand_system.png',
-        title: 'Palet Warna, Hierarki Tipografi & Motif Pola',
-        caption: 'Spesifikasi kode warna primer/sekunder (#832F30, #282829, #373636, #E0E1E0), tipografi Montserrat & aksen skrip Reenie Beanie, serta motif pola repetitif brand.'
       }
     ],
     links: [
@@ -120,33 +105,28 @@ const projectsData = [
     ],
   },
   {
-    id: 'cubmu-transvision',
-    title: 'CubMu & Transvision',
-    tag: 'Social Media & Publication',
-    category: 'social',
-    tagBg: 'bg-tertiary-container',
-    description: 'Perancangan materi promosi publikasi, poster TV streaming CubMu & Transvision, serta layout konten feed Instagram resmi untuk meningkatkan keterlibatan pemirsa.',
-    image: '/images/projects/cubmu_transvision.jpg',
+    id: 'pemprov-dki-run',
+    title: 'Pemprov DKI Jakarta Run',
+    tag: 'Event & Merchandise',
+    category: 'brand',
+    tagBg: 'bg-primary-container',
+    description: 'Konsep identitas visual komprehensif sayembara event lari tahunan "Pemprov DKI Jakarta Run" bertema "Satu Langkah Untuk Jakarta": eksplorasi sistem logo siluet Monas & monogram pelari dinamis, perancangan official race pack (jersey lari oranye & hitam, BIB 21K, drawstring bag, topi, tumbler, lanyard tiket, dan sticker kit).',
+    image: '/images/projects/dki_run_merchandise.jpg',
     images: [
       {
-        url: '/images/projects/cubmu_transvision.jpg',
-        title: 'Display Promosi Streaming TV & Mobile',
-        caption: 'Materi display pameran poster tayangan film, series unggulan, live sports, dan antarmuka aplikasi streaming CubMu Transvision.'
+        url: '/images/projects/dki_run_merchandise.jpg',
+        title: 'Official Race Pack Kit & Event Merchandise Set',
+        caption: 'Desain kit perlengkapan lari lengkap Pemprov DKI Jakarta Run bernuansa oranye khas Jakarta & hitam: running jersey ("Run Jakarta Stronger"), topi, canvas tote bag skyline Jakarta, drawstring bag rute Monas, nomor BIB 21K (10247), tiket lanyard "10 Nov 2025 Monas", botol minum, pin, dan set stiker.'
       },
       {
-        url: '/images/projects/cubmu_feed.jpg',
-        title: 'Desain Konten Feed & Story Instagram',
-        caption: 'Tata letak feed Instagram resmi dengan tipografi tegas, highlight siaran Liga 1, perilisan film terbaru, dan live konser.'
-      },
-      {
-        url: '/images/projects/cubmu_banner.jpg',
-        title: 'Digital Out-of-Home (DOOH) Billboard',
-        caption: 'Desain billboard digital perkotaan skala besar di titik strategis untuk kampanye peluncuran layanan streaming tak terbatas.'
+        url: '/images/projects/dki_run_logo_system.jpg',
+        title: 'Sistem Logo & Eksplorasi Monogram Identitas Lari',
+        caption: 'Pengembangan 4 variasi sistem logo sayembara: emblem siluet Monas tegas ("Satu Langkah untuk Jakarta"), monogram kaligrafi sapuan kuas dinamis dengan aksen matahari oranye, tipografi balap "DKI" aerodinamis, serta piktogram pelari modern.'
       }
     ],
     links: [
       { label: 'Lihat Desain', url: '#', isPrimary: true },
-      { label: 'Tanya Desain', url: 'https://wa.me/6281234561930?text=Halo%20Hajid%2C%20saya%20ingin%20tanya%20desain%20publikasi%20seperti%20CubMu', isPrimary: false }
+      { label: 'Tanya Desain', url: 'https://wa.me/6281234561930?text=Halo%20Hajid%2C%20saya%20tertarik%20dengan%20desain%20event%20Pemprov%20DKI%20Jakarta%20Run', isPrimary: false }
     ],
   },
   {
@@ -200,28 +180,33 @@ const projectsData = [
     ],
   },
   {
-    id: 'pemprov-dki-run',
-    title: 'Pemprov DKI Jakarta Run',
-    tag: 'Event & Merchandise',
-    category: 'brand',
-    tagBg: 'bg-primary-container',
-    description: 'Konsep identitas visual komprehensif sayembara event lari tahunan "Pemprov DKI Jakarta Run" bertema "Satu Langkah Untuk Jakarta": eksplorasi sistem logo siluet Monas & monogram pelari dinamis, perancangan official race pack (jersey lari oranye & hitam, BIB 21K, drawstring bag, topi, tumbler, lanyard tiket, dan sticker kit).',
-    image: '/images/projects/dki_run_merchandise.jpg',
+    id: 'cubmu-transvision',
+    title: 'CubMu & Transvision',
+    tag: 'Social Media & Publication',
+    category: 'social',
+    tagBg: 'bg-tertiary-container',
+    description: 'Perancangan materi promosi publikasi, poster TV streaming CubMu & Transvision, serta layout konten feed Instagram resmi untuk meningkatkan keterlibatan pemirsa.',
+    image: '/images/projects/cubmu_transvision.jpg',
     images: [
       {
-        url: '/images/projects/dki_run_merchandise.jpg',
-        title: 'Official Race Pack Kit & Event Merchandise Set',
-        caption: 'Desain kit perlengkapan lari lengkap Pemprov DKI Jakarta Run bernuansa oranye khas Jakarta & hitam: running jersey ("Run Jakarta Stronger"), topi, canvas tote bag skyline Jakarta, drawstring bag rute Monas, nomor BIB 21K (10247), tiket lanyard "10 Nov 2025 Monas", botol minum, pin, dan set stiker.'
+        url: '/images/projects/cubmu_transvision.jpg',
+        title: 'Display Promosi Streaming TV & Mobile',
+        caption: 'Materi display pameran poster tayangan film, series unggulan, live sports, dan antarmuka aplikasi streaming CubMu Transvision.'
       },
       {
-        url: '/images/projects/dki_run_logo_system.jpg',
-        title: 'Sistem Logo & Eksplorasi Monogram Identitas Lari',
-        caption: 'Pengembangan 4 variasi sistem logo sayembara: emblem siluet Monas tegas ("Satu Langkah untuk Jakarta"), monogram kaligrafi sapuan kuas dinamis dengan aksen matahari oranye, tipografi balap "DKI" aerodinamis, serta piktogram pelari modern.'
+        url: '/images/projects/cubmu_feed.jpg',
+        title: 'Desain Konten Feed & Story Instagram',
+        caption: 'Tata letak feed Instagram resmi dengan tipografi tegas, highlight siaran Liga 1, perilisan film terbaru, dan live konser.'
+      },
+      {
+        url: '/images/projects/cubmu_banner.jpg',
+        title: 'Digital Out-of-Home (DOOH) Billboard',
+        caption: 'Desain billboard digital perkotaan skala besar di titik strategis untuk kampanye peluncuran layanan streaming tak terbatas.'
       }
     ],
     links: [
       { label: 'Lihat Desain', url: '#', isPrimary: true },
-      { label: 'Tanya Desain', url: 'https://wa.me/6281234561930?text=Halo%20Hajid%2C%20saya%20tertarik%20dengan%20desain%20event%20Pemprov%20DKI%20Jakarta%20Run', isPrimary: false }
+      { label: 'Tanya Desain', url: 'https://wa.me/6281234561930?text=Halo%20Hajid%2C%20saya%20ingin%20tanya%20desain%20publikasi%20seperti%20CubMu', isPrimary: false }
     ],
   }
 ];

@@ -21,11 +21,11 @@ const experienceData = [
     desc: 'Merancang identitas visual lengkap (Brand Guidelines), sistem logo geometris heksagonal, karakter maskot, desain kemasan takeaway cup carrier, buku menu (pricelist), serta materi promosi digital & konten media sosial.'
   },
   {
-    icon: 'smart_display',
-    title: 'CubMu & Transvision',
-    period: 'Project Based',
-    role: 'Visual Publication Designer',
-    desc: 'Merancang materi publikasi promosi digital, poster desain, dan feed Instagram untuk layanan streaming & TV berlangganan CubMu dan Transvision.'
+    icon: 'directions_run',
+    title: 'Pemprov DKI Jakarta Run',
+    period: 'Sayembara Desain',
+    role: 'Event Identity & Merchandise Designer',
+    desc: 'Mengikuti sayembara desain perancangan identitas visual resmi event running "Pemprov DKI Jakarta Run" ("Satu Langkah untuk Jakarta"): merancang sistem logo Monas & figur pelari dinamis, official race pack jersey 21K, nomor dada (BIB), tote bag, lanyard tiket, tumbler, hingga merchandise pendukung.'
   },
   {
     icon: 'auto_stories',
@@ -35,11 +35,11 @@ const experienceData = [
     desc: 'Bertanggung jawab dalam perancangan desain sampul (cover design) dan tata letak isi (book layouting) untuk berbagai genre buku akademik, monograf penelitian, sastra, hingga buku ajar berstandar penerbit IKAPI.'
   },
   {
-    icon: 'directions_run',
-    title: 'Pemprov DKI Jakarta Run',
-    period: 'Sayembara Desain',
-    role: 'Event Identity & Merchandise Designer',
-    desc: 'Mengikuti sayembara desain perancangan identitas visual resmi event running "Pemprov DKI Jakarta Run" ("Satu Langkah untuk Jakarta"): merancang sistem logo Monas & figur pelari dinamis, official race pack jersey 21K, nomor dada (BIB), tote bag, lanyard tiket, tumbler, hingga merchandise pendukung.'
+    icon: 'smart_display',
+    title: 'CubMu & Transvision',
+    period: 'Project Based',
+    role: 'Visual Publication Designer',
+    desc: 'Merancang materi publikasi promosi digital, poster desain, dan feed Instagram untuk layanan streaming & TV berlangganan CubMu dan Transvision.'
   }
 ];
 
