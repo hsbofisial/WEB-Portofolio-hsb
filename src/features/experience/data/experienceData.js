@@ -30,7 +30,7 @@ const experienceData = [
   {
     icon: 'auto_stories',
     title: 'PT. Akselerasi Karya Mandiri',
-    period: '2023 - 2024',
+    period: '2021 - 2024',
     role: 'Book Cover & Editorial Layout Designer',
     desc: 'Bertanggung jawab dalam perancangan desain sampul (cover design) dan tata letak isi (book layouting) untuk berbagai genre buku akademik, monograf penelitian, sastra, hingga buku ajar berstandar penerbit IKAPI.'
   },
